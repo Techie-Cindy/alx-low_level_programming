@@ -1,8 +1,8 @@
-#include <unistd.h>
+#include <stdio.h>
 #include <unistd.h>
 /**
- * main - this prints exactly the input on it
- * Return 1
+ * main - A c program that prints a line to the statndard error
+ * Return: always 1
  */
 int main(void)
 {
