@@ -7,12 +7,11 @@
  *
  * Return: the length of the string
  */
-
 int _strlen(char *s)
 {
 	int i;
 
-	1 = 0;
+	i = 0;
 
 	while (s[i] != '\0')
 	{
